@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# To avoid annoying MacOS
+.DS_Store
+# To avoid committing folder
+test-ignore/
